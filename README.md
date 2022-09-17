@@ -3,19 +3,16 @@
 This repository contains code for Agency Website in ReactJS.
 
 View Demo:
-https://agency-website-eta.vercel.app/
+https://agency-web-design.vercel.app/
 
-If you want to learn how to create it please follow below tutorial:
-Change your Branch to Starter-Code-Files To get started!
 
-https://youtu.be/aAEfBxcGpJ8
 
 ### Images of Website:
 ![Codebucks](https://github.com/codebucks27/Agency-website/blob/main/src/assets/Website%20Image-1.png)
 ![Codebucks](https://github.com/codebucks27/Agency-website/blob/main/src/assets/Website%20Image-3.png)
 ![Codebucks](https://github.com/codebucks27/Agency-website/blob/main/src/assets/Website%20Image-2.png)
 
-### [ I appreciate if you give appropriate credit when using this Website for Commercial Use ]
+
 
 ### Resources Used in This Project
 
